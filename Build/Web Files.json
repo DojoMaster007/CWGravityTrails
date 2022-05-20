@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "gravity trails",
+"productVersion": "0.1",
+"dataUrl": "Web Files.data.unityweb",
+"wasmCodeUrl": "Web Files.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web Files.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
